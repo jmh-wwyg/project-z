@@ -4,5 +4,5 @@ Untitled Marble Game is an experiment, and the application of several years wort
 I'm an amateur computer scientist (at best), so it has taken me awhile to get where I am now.
 It has been a fun and worthwhile endeavour.
 
-The project files for this game are publicly availble, and this repository is mainly used to log successive version of the project, and facilitate my need to transfer files from desktop to laptop on the regular.
+The project files for this game are publicly availble, and this repository is mainly used to log successive versions of the project, and facilitate my need to transfer files from desktop to laptop (and back again) on the regular.
 Thanks for stopping by! :)
