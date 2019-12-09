@@ -8,6 +8,6 @@ The project files for this game are publicly availble, and this repository is ma
 
 # Untitled Mech Game (umg)
 
-Untitled Mech Game (shorthand umg) is a record of my progress as I take baby steps into creating a game that I've wanted to develop for over 10 years!
+Untitled Mech Game (shorthand umg, conveniently co-opted from the name of its predecessor) is a record of my progress as I take baby steps into creating a game that I've wanted to develop for over 10 years!
 I believe I have come to be profecient enough in Gamemaker Studio 2 to realize my dreams, molded by years of playing the N64 as a curious child, endlessly amazed by the boundless magic of 3D computer graphics.
 12/04/19
