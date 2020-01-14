@@ -1,12 +1,13 @@
-
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P11BOIE)
 # Project Z
 Project Z is the realization of a machine and mech-fighting video game that I have wanted to create since my childhood. Inspired by the magic and mystique of early 3D computer graphics, I have always wanted to create a game that is approachable, colorful, and most of all, fun!
-The visual style draws inspiration from video games like Pilotwings (1990), Star Fox (1993), and Mario Artist: Polygon Studio (2000) as well as from some older anime like Dragon Ball (1986-1989), Sailor Moon (1992-1997), and many of Hayao Miyazaki's films including Castle in the Sky (1986), Kiki's Delivery Service (1989), and Porco Rosso (1992).
+The visual style draws inspiration from video games like Pilotwings (1990), Star Fox (1993), and Mario Artist: Polygon Studio (2000) as well as from some older anime like Dragon Ball (1986-1989), Sailor Moon (1992-1997), and many of Hayao Miyazaki's films including Castle in the Sky (1986), Kiki's Delivery Service (1989), and Porco Rosso (1992), all of which portray a representation of machines that is at once toy-like and tacticle.
 
 The central focus of Project Z is on the mech-fighting, where the player will face off against a wide roster of unique and quirky foes, each with their own machine to match their personalities!
 By participating in tournaments, the player will earn money with which they can purchase new assets for their machine.
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P11BOIE)
+The player can freely operate his or her own mech, and use it to explore the surrounding world. To that end, the player may also utilize bicycles, motorbikes, cars, helicopters, and airplanes!
+A big tenant of design for this project is "freedom of movement" - meaning that the player should feel not just unencumbered, but capable of moving how and where they want, using whatever vehicle they most enjoy. The sky's the limit!
 
 # Untitled Marble Game
 Untitled Marble Game is an experiment, and the application of several years worth of trying to understand and utilize the 3D functions in Gamemaker Studio 2.
